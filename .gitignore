@@ -1,0 +1,6 @@
+target/classes/META-INF/MANIFEST.MF
+.project
+target/classes/META-INF/maven/de.dennes.tests/experimental-buildpipeline/pom.properties
+.settings/org.eclipse.jdt.apt.core.prefs
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
